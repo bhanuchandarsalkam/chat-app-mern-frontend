@@ -29,5 +29,4 @@ const Nochatselected=()=>{
       <TiMessages className="text-3xl md:text-6xl text-center"/>
      </div>
     </div>
-  )
-}
+  )}
